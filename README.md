@@ -7,3 +7,4 @@
 5. Which brand is the best avoided?
 6. Sales volume prediction and popularity of a laptop model?
 7. Which combinations of features (e.g., specific processor and RAM combinations) are most commonly found in highly rated laptops?
+8. After what price range should you ask yourself maybe a laptop is not enough for me?
